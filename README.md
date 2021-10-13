@@ -1,10 +1,15 @@
 # Projet-IOT
 #--------------------------------------
 Pages à créer : 
-  1. 
+  1. Account
+  2. Phoilosophie
+  3. Contact -> (besoin de php)
+  4. Affichage données dans account
 
 
 #-------------------------------------
 Choses à faire (BDD):
+  1. Compte utilisateur
+  2. récuperer données automate
 
 
