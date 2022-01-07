@@ -1,7 +1,7 @@
 # Projet-IOT
 
-1.Créer une interface web pour récuperer données et contrôler automate via protocole MODBUS.
-2.Faire avec:
+## Créer une interface web pour récuperer données et contrôler automate via protocole MODBUS.
+## Faire avec:
 
 1. HTML/CSS pour le Front
 2. PHP, MySQL pour le back
