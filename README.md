@@ -7,8 +7,7 @@
 2. PHP, MySQL pour le back
 3. Protocole de communication MODBUS
 
-#--------------------------------------
-Pages à créer : 
+## Pages à créer : 
   1. Account
   2. Team
   3. Contact 
@@ -16,8 +15,7 @@ Pages à créer :
   5. Travaux réalisés
 
 
-#-------------------------------------
-Choses à faire (BDD):
+## Choses à faire (BDD):
   1. Compte utilisateur
   2. récuperer données automate
 
